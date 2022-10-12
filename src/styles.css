@@ -1,4 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Plus+Jakarta+Sans:regular,bold,italic&subset=latin,latin-ext');
+
 body {
   margin: 0 !important;
   height: 100%;
+  font-family: 'Jakarta Plus', sans-serif;
+  background-color: #f2efe4;
 }
